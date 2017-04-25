@@ -3,3 +3,6 @@ main: com.everneth.everlog.EverLog
 version: 0.1
 author: TptMike (Faceman)
 description: Block logging
+commands:
+  everlog:
+    aliases: [el]
