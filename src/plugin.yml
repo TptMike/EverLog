@@ -1,7 +1,7 @@
 name: EverLog
 main: com.everneth.everlog.EverLog
 version: 0.1
-author: TptMike (Faceman)
+author: TptMike (Faceman), Sterling (Redstonehax)
 description: Block logging
 commands:
   everlog:
