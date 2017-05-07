@@ -1,4 +1,4 @@
-package com.everneth.actions;
+package com.everneth.everlog.actions;
 
 // Java libs
 import java.util.Date;

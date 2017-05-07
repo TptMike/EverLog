@@ -1,7 +1,7 @@
 package com.everneth.everlog;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.everneth.commands.MainCommand;
+import com.everneth.everlog.commands.MainCommand;
 
 public class EverLog extends JavaPlugin 
 {

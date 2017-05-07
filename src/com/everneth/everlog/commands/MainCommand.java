@@ -1,4 +1,4 @@
-package com.everneth.commands;
+package com.everneth.everlog.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

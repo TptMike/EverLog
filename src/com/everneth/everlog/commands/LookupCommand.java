@@ -1,4 +1,4 @@
-package com.everneth.commands;
+package com.everneth.everlog.commands;
 
 public class LookupCommand
 {

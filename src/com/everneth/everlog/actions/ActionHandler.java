@@ -1,4 +1,4 @@
-package com.everneth.actions;
+package com.everneth.everlog.actions;
 
 // Bukkit Libs
 import org.bukkit.entity.Player;
